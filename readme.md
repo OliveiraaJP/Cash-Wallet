@@ -19,9 +19,9 @@
 ## 👨🏻‍💻 Instalação Docker
 
 ```bash
-$ unzip ngcash-joao-oliveira.zip
+$ git@github.com:OliveiraaJP/Cash-Wallet.git
 
-$ cd ngcash-joao-oliveira/
+$ cd back/
 
 $ docker-compose build
 
