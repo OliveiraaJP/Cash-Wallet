@@ -19,7 +19,7 @@
 ## 👨🏻‍💻 Instalação Docker
 
 ```bash
-$ git@github.com:OliveiraaJP/Cash-Wallet.git
+$ git clone git@github.com:OliveiraaJP/Cash-Wallet.git
 
 $ cd back/
 
@@ -36,7 +36,7 @@ $ docker-compose up
 
 ```bash
 
-$ git@github.com:OliveiraaJP/Cash-Wallet.git
+$ git clone git@github.com:OliveiraaJP/Cash-Wallet.git
 
 ```
   - Acesse a pasta back/
