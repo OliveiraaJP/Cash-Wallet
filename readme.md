@@ -4,6 +4,13 @@
   </h1>
 </p>
 
+## 🖥️ Descrição do Projeto
+
+  Projeto de uma carteira virtual desenvolvido para o teste da NG Cash e disponibiliza:
+  - Criação/Login de usuários.
+  - Transferência entre usuários criados.
+  - Visualização e Filtro das transferências feitas.
+
 ## 💻 Tecnologias e Ferramentas
 
 - Docker
@@ -19,9 +26,9 @@
 ## 👨🏻‍💻 Instalação Docker
 
 ```bash
-$ unzip ngcash-joao-oliveira.zip
+$ git clone https://github.com/OliveiraaJP/Cash-Wallet.git
 
-$ cd ngcash-joao-oliveira/
+$ cd back/
 
 $ docker-compose build
 
@@ -36,7 +43,7 @@ $ docker-compose up
 
 ```bash
 
-$ unzip ngcash-joao-oliveira.zip
+$ git clone https://github.com/OliveiraaJP/Cash-Wallet.git
 
 ```
   - Acesse a pasta back/
