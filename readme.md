@@ -36,7 +36,7 @@ $ docker-compose up
 
 ```bash
 
-$ unzip ngcash-joao-oliveira.zip
+$ git@github.com:OliveiraaJP/Cash-Wallet.git
 
 ```
   - Acesse a pasta back/
